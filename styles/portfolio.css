@@ -9,13 +9,24 @@
 .first-text {
   position: absolute;
   font-size: 72px;
-  top: 110px;
-  left: 800px;
+  line-height: 98px;
+  top: 47px;
+  left: 430px;
 }
 
 .second-text {
   position: absolute;
   font-size: 24px;
-  bottom: 100px;
-  left: 650px;
+  line-height: 35px;
+  top: 149px;
+  left: 300px;
+}
+
+.subtitle {
+  font-size: 28px;
+  color: #272142;
+  line-height: 38px;
+  font-family: "Nunito", sans-serif;
+  font-weight: bold;
+  text-align: center;
 }
